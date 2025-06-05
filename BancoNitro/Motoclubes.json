@@ -1,0 +1,85 @@
+[
+    {
+      "Nome_Motoclube": "Águias do Asfalto MC",
+      "Descricao_Motoclube": "Motoclube tradicional com foco em viagens longas (estradeiro) e confraternização entre os membros. Promovemos eventos beneficentes anuais.",
+      "Sede_Endereco": "Rua dos Motoqueiros, 77, Bairro Liberdade, São Paulo",
+      "Cidade_Sede": "São Paulo",
+      "Estado_Sede": "SP",
+      "Img": "https://exemplo.com/imagens/aguias_asfalto_logo.png",
+      "Ano_Fundacao": 1998,
+      "Contato_Responsavel": "Carlos 'RoadKing' Silva",
+      "Email_Contato": "contato@aguiasdoasfalto.com.br",
+      "Telefone_Contato": "(11) 99999-0001",
+      "Website": "https://www.aguiasdoasfalto.com.br",
+      "RedesSociais": {
+        "Facebook": "https://facebook.com/aguiasdoasfaltomc",
+        "Instagram": "https://instagram.com/aguiasdoasfaltomc"
+      },
+      "Tipo_Foco": "Estradeiro / Ações Sociais",
+      "Numero_Membros_Aproximado": 75,
+      "Lema_Clube": "Liberdade, Irmandade e Respeito na Estrada!",
+      "Reunioes": "Primeira sexta-feira do mês, na sede, às 20h."
+    },
+    {
+      "Nome_Motoclube": "Lobos Solitários RC",
+      "Descricao_Motoclube": "Riders Club para amantes de motos custom e estilo de vida old school. Prezamos pela individualidade e o puro prazer de pilotar.",
+      "Sede_Endereco": "Av. das Oficinas, 450, Bairro Industrial, Contagem",
+      "Cidade_Sede": "Contagem",
+      "Estado_Sede": "MG",
+      "Img": "https://exemplo.com/imagens/lobos_solitarios_patch.jpg",
+      "Ano_Fundacao": 2010,
+      "Contato_Responsavel": "Ana 'LoneWolf' Pereira",
+      "Email_Contato": "lobossolitariosrc@gmail.com",
+      "Telefone_Contato": "(31) 98888-0002",
+      "Website": null,
+      "RedesSociais": {
+        "Instagram": "https://instagram.com/lobossolitariosrc"
+      },
+      "Tipo_Foco": "Custom / Old School",
+      "Numero_Membros_Aproximado": 30,
+      "Lema_Clube": "Nascido para Rodar, Rodar para Viver.",
+      "Reunioes": "Encontros espontâneos informados pelo grupo."
+    },
+    {
+      "Nome_Motoclube": "Velocidade Pura Esporte Clube",
+      "Descricao_Motoclube": "Grupo focado em motocicletas esportivas e participação em track days. Buscamos aprimorar técnicas de pilotagem segura em alta performance.",
+      "Sede_Endereco": "Autódromo de Interlagos, Ponto de Encontro Box 12, São Paulo",
+      "Cidade_Sede": "São Paulo",
+      "Estado_Sede": "SP",
+      "Img": "https://exemplo.com/imagens/velocidadepura_logo.svg",
+      "Ano_Fundacao": 2015,
+      "Contato_Responsavel": "Ricardo 'Flash' Mendes",
+      "Email_Contato": "velocidadepura@outlook.com",
+      "Telefone_Contato": "(11) 97777-0003",
+      "Website": "https://velocidadepura.blog.br",
+      "RedesSociais": {
+        "Facebook": "https://facebook.com/velocidadepuraec",
+        "Youtube": "https://youtube.com/c/velocidadepura"
+      },
+      "Tipo_Foco": "Esportivo / Track Day",
+      "Numero_Membros_Aproximado": 50,
+      "Lema_Clube": "Adrenalina com Responsabilidade.",
+      "Reunioes": "Mensalmente em track days agendados."
+    },
+    {
+      "Nome_Motoclube": "Damas de Aço MC - Amazonas",
+      "Descricao_Motoclube": "Motoclube exclusivamente feminino, fortalecendo a presença da mulher no motociclismo. Realizamos passeios, eventos e workshops.",
+      "Sede_Endereco": "Rua da Conquista, 10, Bairro Flores, Manaus",
+      "Cidade_Sede": "Manaus",
+      "Estado_Sede": "AM",
+      "Img": "https://exemplo.com/imagens/damas_aco_am_logo.png",
+      "Ano_Fundacao": 2018,
+      "Contato_Responsavel": "Sofia 'Valquíria' Lima",
+      "Email_Contato": "damasdeaco.am@gmail.com",
+      "Telefone_Contato": "(92) 96666-0004",
+      "Website": null,
+      "RedesSociais": {
+        "Instagram": "https://instagram.com/damasdeaco.am",
+        "WhatsappGrupo": "Link para grupo (opcional)"
+      },
+      "Tipo_Foco": "Feminino / Misto (estilos de moto)",
+      "Numero_Membros_Aproximado": 40,
+      "Lema_Clube": "Juntas somos mais fortes, sobre duas rodas ou não!",
+      "Reunioes": "Quinzenalmente aos sábados, local itinerante."
+    }
+  ]

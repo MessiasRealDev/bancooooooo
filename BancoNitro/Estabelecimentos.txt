@@ -1,0 +1,13 @@
+[
+    {
+        "Nome_Estabelecimento": "",
+        "Email_Estabelecimento": "",
+        "telefone_Estabelecimento": "",
+        descricao,
+        fotos,
+        comentarios,
+        avaliacao
+        _id
+        
+    }
+]

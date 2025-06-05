@@ -1,0 +1,11 @@
+[
+    {
+        "Rota": "Exemplo de Nome",
+        "Data_Inicio_da_viagem": "",
+        "Data_Final_da_viagem": "",
+        "Descricao_Rota": "",
+        "Img": "",
+        "Categoria": "",
+        "Paradas": [{id}},{},{},{},{},{},{},{}]
+    }
+]

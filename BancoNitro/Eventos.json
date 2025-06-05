@@ -1,0 +1,62 @@
+[
+    {
+      "Titulo": "Show de Rock Alternativo: Banda Lunar",
+      "Endereco": "Rua das Palmeiras, 123, Vila Madalena, São Paulo - SP",
+      "Descricao": "A banda Lunar apresenta seu novo álbum 'Ecos da Cidade' em uma noite de muita energia e rock alternativo. Não perca os sucessos e as novas canções!",
+      "Data_Horario": "2025-07-15T20:00:00-03:00",
+      "Img": "https://exemplo.com/imagens/banda_lunar.jpg",
+      "Categoria": "Show Musical",
+      "Preco": "R$ 70 (antecipado), R$ 90 (na porta)",
+      "Organizador": "Produtora Som Livre SP",
+      "Contato": "contato@somlivresp.com.br | (11) 98765-4321",
+      "Tags": ["rock", "alternativo", "show", "música ao vivo", "banda lunar"],
+      "PublicoAlvo": "Maiores de 18 anos",
+      "LinkIngressos": "https://bileto.com.br/banda-lunar",
+      "Status": "Confirmado"
+    },
+    {
+      "Titulo": "Feira de Artesanato Local Criarte",
+      "Endereco": "Praça da República, s/n, Centro, São Paulo - SP",
+      "Descricao": "Descubra o talento dos artesãos locais na feira Criarte. Peças únicas, decoração, bijuterias, gastronomia regional e muito mais. Ótima opção de passeio para toda a família.",
+      "Data_Horario": "2025-08-03T10:00:00-03:00",
+      "Img": "https://exemplo.com/imagens/feira_criarte.jpg",
+      "Categoria": "Feira",
+      "Preco": "Gratuito",
+      "Organizador": "Associação de Artesãos Paulistanos",
+      "Contato": "feira.criarte@email.com",
+      "Tags": ["artesanato", "feira livre", "cultura", "gratuito", "família", "compras"],
+      "PublicoAlvo": "Livre",
+      "LinkIngressos": null,
+      "Status": "Confirmado"
+    },
+    {
+      "Titulo": "Workshop de Fotografia para Iniciantes",
+      "Endereco": "Av. Paulista, 1578, Bela Vista, São Paulo - SP (Coworking Criativo)",
+      "Descricao": "Aprenda os fundamentos da fotografia, desde a composição até o manuseio da câmera. Workshop prático com certificado incluso. Vagas limitadas!",
+      "Data_Horario": "2025-09-20T09:00:00-03:00",
+      "Img": "https://exemplo.com/imagens/workshop_foto.jpg",
+      "Categoria": "Workshop",
+      "Preco": "R$ 150",
+      "Organizador": "Escola de Imagem SP",
+      "Contato": "cursos@escoladeimagemsp.com | (11) 91234-5678",
+      "Tags": ["fotografia", "curso", "workshop", "educação", "iniciantes"],
+      "PublicoAlvo": "Adulto",
+      "LinkIngressos": "https://inscricoes.escoladeimagemsp.com/fotografia-iniciantes",
+      "Status": "Confirmado"
+    },
+    {
+      "Titulo": "Exposição de Arte Moderna: Abstrações Brasileiras",
+      "Endereco": "Museu de Arte Contemporânea, Av. Pedro Álvares Cabral, 1301, Ibirapuera, São Paulo - SP",
+      "Descricao": "Uma jornada pelas principais obras da arte abstrata brasileira, com artistas renomados e novos talentos. Curadoria especial de Ana Silva.",
+      "Data_Horario": "2025-06-10T11:00:00-03:00",
+      "Img": "https://exemplo.com/imagens/expo_abstrata.jpg",
+      "Categoria": "Exposição",
+      "Preco": "R$ 30 (inteira), R$ 15 (meia)",
+      "Organizador": "MAC USP",
+      "Contato": "visita@mac.usp.br",
+      "Tags": ["arte", "exposição", "museu", "abstrato", "cultura sp"],
+      "PublicoAlvo": "Livre",
+      "LinkIngressos": null,
+      "Status": "Em cartaz"
+    }
+  ]
